@@ -1,4 +1,4 @@
-# README: PDF Password Recovery Workflow (JTR, Johnny, OnlineHashCrack & Networkwalks)
+# PDF Password Recovery Workflow (JTR, Johnny, OnlineHashCrack & Networkwalks)
 
 This guide documents a controlled, offline password-recovery workflow for password-protected PDF files. It is intended **strictly for authorized security auditing, forensic investigation, or recovery of your own documents**. Unauthorized access to protected files is illegal.
 
