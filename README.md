@@ -33,8 +33,8 @@ Each recovered PDF contained a congratulations page with a capture flag, confirm
 | File | Hash file | Tool(s) used | Cracked password | Captured flag |
 |---|---|---|---|---|
 | Locked PDF 1 | [`pdf1/hashpdf1.txt`](pdf1/hashpdf1.txt) | John the Ripper (Johnny) + NetworkWalks Password Cracker | `good-luck` | `nw{cybersecurity_flag_captured_2608}` |
-| Locked PDF 2 | [`pdf2/hashpdf2.txt`](pdf2/hashpdf2.txt) | NetworkWalks Password Cracker | `password1` | `nw{networkwalks_persistence_jtr_270521}` |
-| Locked PDF 3 | [`pdf3/hashpdf3.txt`](pdf3/hashpdf3.txt) | NetworkWalks Password Cracker | `1qaz2wsx` | `nw{networkwalks_flag_260821_1}` |
+| Locked PDF 2 | [`pdf2/hashpdf2.txt`](pdf2/hashpdf2.txt) | John the Ripper (Johnny) + NetworkWalks Password Cracker | `password1` | `nw{networkwalks_persistence_jtr_270521}` |
+| Locked PDF 3 | [`pdf3/hashpdf3.txt`](pdf3/hashpdf3.txt) | John the Ripper (Johnny) + NetworkWalks Password Cracker | `1qaz2wsx` | `nw{networkwalks_flag_260821_1}` |
 
 ---
 
