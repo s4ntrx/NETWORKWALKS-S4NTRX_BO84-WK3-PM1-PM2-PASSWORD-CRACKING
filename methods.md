@@ -71,7 +71,7 @@ Johnny is a graphical interface that wraps John the Ripper, making it easier for
 Since Johnny requires a hash file, you still need to extract it.
 
 * **Option A**: Use the `pdf2john.py` script included in the JTR folder via command prompt to create `hash.txt`.
-* **Option B**: Use the **OnlineHashCrack PDF Hash Extractor** tool in your browser to generate the `$pdf$` string, then paste it into Notepad and save as `hash.txt`.
+* **Option B**: Use the **OnlineHashCrack PDF Hash Extractor** (https://www.onlinehashcrack.com/tools-pdf-hash-extractor.php) tool in your browser to generate the `$pdf$` string, then paste it into Notepad and save as `hash.txt`.
 
 ### Step 3: Crack in Johnny
 
